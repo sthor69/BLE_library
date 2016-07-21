@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/notifications.dir/notifications.cpp.o  -o notifications -rdynamic ../src/libtinyb.so.0.5.0.0.5.0.0.5.0 -lpthread -lglib-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 -lgio-2.0 -lgobject-2.0 -Wl,-rpath,/home/storassa/tinyb/build/src 

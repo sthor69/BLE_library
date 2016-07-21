@@ -1,0 +1,11 @@
+/home/storassa/tinyb/build/examples/CMakeFiles/asynctinyb.dir
+/home/storassa/tinyb/build/examples/java/CMakeFiles/AsyncTinyB.dir
+/home/storassa/tinyb/build/java/jni/CMakeFiles/javatinyb.dir
+/home/storassa/tinyb/build/examples/CMakeFiles/hellotinyb.dir
+/home/storassa/tinyb/build/examples/java/CMakeFiles/HelloTinyB.dir
+/home/storassa/tinyb/build/examples/CMakeFiles/notifications.dir
+/home/storassa/tinyb/build/src/CMakeFiles/tinyb.dir
+/home/storassa/tinyb/build/examples/java/CMakeFiles/Notification.dir
+/home/storassa/tinyb/build/examples/CMakeFiles/checkinit.dir
+/home/storassa/tinyb/build/java/CMakeFiles/tinybjar.dir
+/home/storassa/tinyb/build/examples/CMakeFiles/esstinyb.dir

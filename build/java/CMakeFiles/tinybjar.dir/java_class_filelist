@@ -1,0 +1,14 @@
+tinyb/BluetoothGattDescriptor.class
+tinyb/BluetoothGattCharacteristic.class
+tinyb/BluetoothManager.class
+tinyb/ObjectArrayArgCallback.class
+tinyb/BluetoothAdapter.class
+tinyb/BluetoothException.class
+tinyb/BluetoothEvent.class
+tinyb/BluetoothCallback.class
+tinyb/BluetoothGattService.class
+tinyb/BluetoothNotification.class
+tinyb/BluetoothObject.class
+tinyb/BluetoothType.class
+tinyb/ObjectArgCallback.class
+tinyb/BluetoothDevice.class
